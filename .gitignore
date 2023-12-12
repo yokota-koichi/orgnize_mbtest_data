@@ -1,0 +1,4 @@
+data/
+*.xlsx
+*.xlsm
+__pycache__/
