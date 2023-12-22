@@ -1,4 +1,5 @@
 data/
+fig/
 *.xlsx
 *.xlsm
 __pycache__/
